@@ -73,5 +73,5 @@ Example:- /set_caption 📕 File Name: {filename}
 » 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/ApexroomTG/Apex-Rename>𝐀𝐏𝐄𝐗 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
 
 • ❣️ <a href=https://t.me/Apexroombkp>𝗔𝗽𝗲𝘅𝗿𝗼𝗼𝗺</a>
-• ❣️ <a href=https://t.me/ApexroomTG>𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗽𝗲𝘅𝗿𝗼𝗼𝗺</a>
+• ❣️ <a href=https://Github.com/ApexroomTG>𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗽𝗲𝘅𝗿𝗼𝗼𝗺</a>
 """
