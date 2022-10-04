@@ -37,7 +37,6 @@ class mr(object):
 ╭───────────⍟
 ├🤖 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
 ├👑 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁𝚂 : <a href=https://t.me/Apexroombkp>𝗧𝗲𝗮𝗺 𝗔𝗽𝗲𝘅𝗿𝗼𝗼𝗺</a> 
-├👨‍💻 𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁 : <a href=https://github.com/ApexroomTG>𝙿𝚁𝙾𝙶𝚁𝙰𝙼𝙴𝚁</a>
 ├📕 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : <a href=https://github.com/pyrogram>𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼</a>
 ├✏️ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : <a href=https://www.python.org>𝙿𝚈𝚃𝙷𝙾𝙽 3</a>
 ├💾 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴 : <a href=https://cloud.mongodb.com>𝙼𝙾𝙽𝙶𝙾𝙳𝙱</a>
@@ -66,11 +65,10 @@ Example:- /set_caption 📕 File Name: {filename}
 ℹ️ 𝗔𝗻𝘆 𝗢𝘁𝗵𝗲𝗿 𝗛𝗲𝗹𝗽 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 :- <a href=https://t.me/Apexroom_Chat>𝑺𝑼𝑷𝑷𝑶𝑹𝑻 𝑮𝑹𝑶𝑼𝑷</a>
 """
 
-#⚠️ don't remove our credits 🙏😢😢
     DEV_TXT = """
 <b><u>Special Thanks & Developers</b></u> 
 
-» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : <a href=https://github.com/ApexroomTG/Apex-Rename>𝐀𝐏𝐄𝐗 𝐑𝐄𝐍𝐀𝐌𝐄 𝐁𝐎𝐓</a>
+» 𝗦𝗢𝗨𝗥𝗖𝗘 𝗖𝗢𝗗𝗘 : 😒 Source code nahi de rhe 
 
 • ❣️ <a href=https://t.me/Apexroombkp>𝗔𝗽𝗲𝘅𝗿𝗼𝗼𝗺</a>
 • ❣️ <a href=https://Github.com/ApexroomTG>𝗚𝗶𝘁𝗵𝘂𝗯 𝗔𝗽𝗲𝘅𝗿𝗼𝗼𝗺</a>
