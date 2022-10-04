@@ -60,7 +60,9 @@ broadcast - admin only
 
 
 Note to Guyzz Githubil who is editing someone else's repo ⚠️ 
-\nDo not change the source code even if you change any link 🙏 Making your repo is not that simple, there is a lot of trouble and yet you are making it public 🥺 \n\nThank you for showing it 🙏 Please put credits & source cod 🙏🥺
+Do not change the source code even if you change any link 🙏 Making your repo is not that simple, there is a lot of trouble and yet you are making it public 🥺 
+
+Thank you for showing it 🙏 Please put credits & source cod 🙏🥺
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
